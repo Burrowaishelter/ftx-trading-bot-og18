@@ -1,4 +1,4 @@
-# 
+# ultimate Automation Script for ftx trading bot | take-profit + scalping offers the most advanced ftx trading bot, with take-profit and scalping. Ideal for professional traders and
 
 
 
